@@ -1,1 +1,1 @@
-# Music-Library
+# Functional music library in c#
